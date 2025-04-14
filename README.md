@@ -22,7 +22,7 @@ Customer reviews often provide rich, detailed feedback, but the star ratings can
 - **Predicting Star Ratings**: Using BERTimbau to train a deep learning model that predicts star ratings based on the review text.
 - **Active Learning**: Implementing an Active Learning approach to iteratively improve the model with a limited set of labeled data.
 - **Topic Modeling**: Analyzing reviews to extract and group recurring themes from both positive and negative feedback.
-- **Scalable Pipeline**: Building a flexible pipeline that can be adapted to other types of business reviews and can be reused or adapted for other local business domains.
+- **Scalable Pipeline**: Building a flexible pipeline that can be reused for other types of business reviews or adapted to different local business domains.
 
 ---
 
