@@ -131,6 +131,17 @@ The data was collected using the Google Places API, focusing on businesses relat
 
 To explore or reproduce the results of this project, follow these steps:
 
+### 0. Clone the Repository
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/ricardo-yos/bertimbau-sentiment-analysis.git
+cd bertimbau-sentiment-analysis
+```
+
+> Replace the URL above with your actual repository URL if it's different.
+
 ### 1. Install Dependencies
 
 Make sure you have **Python 3.10+** installed. Then, create a virtual environment and install the required packages:
